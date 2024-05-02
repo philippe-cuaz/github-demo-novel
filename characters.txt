@@ -1,3 +1,8 @@
+=============
+CHARACTERS
+=============
+
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et odio ex.
  Suspendisse commodo massa a risus posuere, ornare sollicitudin risus
   faucibus. Nullam placerat lorem non ex dapibus maximus. Fusce vel
